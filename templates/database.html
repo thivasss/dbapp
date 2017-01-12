@@ -1,0 +1,26 @@
+﻿<!doctype html>
+<html>
+<body>
+
+    result of addition : {{ msg }}
+
+    <table border=1>
+        <thead>
+        <td>Weight</td>
+        <td>Age</td>
+        </thead>
+
+        {% for row in rows %}
+        <tr>
+            <td>{{row["weight"]}}</td>
+            <td>{{row["age"]}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+
+
+        <a href="/">Go back to home page</a>
+
+</body>
+</html>

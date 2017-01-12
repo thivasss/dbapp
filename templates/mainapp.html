@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Home</title>
+
+    <h2>Let's see how fat you are!</h2>
+    <form action = "{{ url_for('subm') }}" method="POST">
+
+    
+        <label for="weight">Your weight</label>
+        <input name="weight" type="text" value="{{request.form.weight}}"/>
+        <br>
+        <label for="age">Age</label>
+        <input name="age" type="text" value="{{request.form.age}}" />
+        <br> 
+        <button type="submit">Submit Form</button>
+    </form>
+
+    <a href="/database">Go to our db</a>
+</head>
+<body>
+
+</body>
+</html>
