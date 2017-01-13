@@ -1,4 +1,4 @@
-OLO TO PROGRAMA VRISKETE STO ZIPAKI BACKUPP!!!!!!!!!!!!!!!!!!!!!
+OLO TO PROGRAMA VRISKETE STO ZIPAKI BACKUPP.7Z !!!!!!!!!!!!!!!!!!!!!
 
 app.py einai to initialization application
 
