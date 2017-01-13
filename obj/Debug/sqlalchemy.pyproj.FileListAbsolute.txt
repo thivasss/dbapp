@@ -1,0 +1,60 @@
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.WebRole.dll
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\attach_server.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_debugger.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_repl.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_util.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\__init__.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\__main__.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\bin\AzureSetup.cfg
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe.config
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\bin\wfastcgi.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\deployment-updated-orig-prefix.txt
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\ptvs_virtualenv_proxy.py
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\web.config
+d:\user\documents\visual studio 2015\Projects\sqlalchemy\sqlalchemy\obj\Debug\web.debug.config
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\attach_server.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_repl.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\visualstudio_py_util.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\__init__.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\__main__.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\bin\AzureSetup.cfg
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\bin\wfastcgi.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\ptvs_virtualenv_proxy.py
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\web.config
+C:\Users\Thivas\Desktop\sqlalchemy\sqlalchemy\obj\Debug\web.debug.config
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\attach_server.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\visualstudio_py_repl.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\visualstudio_py_util.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\__init__.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\__main__.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\bin\AzureSetup.cfg
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\bin\wfastcgi.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\ptvs_virtualenv_proxy.py
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\web.config
+C:\Users\Thivas\Desktop\dbapp\sqlalchemy\obj\Debug\web.debug.config
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\attach_server.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\visualstudio_py_repl.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\visualstudio_py_util.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\__init__.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\__main__.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\bin\AzureSetup.cfg
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\bin\wfastcgi.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\ptvs_virtualenv_proxy.py
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\web.config
+C:\Users\Thivas\Desktop\backupp\dbapp\sqlalchemy\obj\Debug\web.debug.config
